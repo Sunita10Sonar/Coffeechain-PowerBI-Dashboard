@@ -47,7 +47,7 @@ This project presents an interactive Power BI dashboard for analyzing the sales,
 ## 🙋‍♀️ Author
 
 **Sunita Sonar**  
-[GitHub](https://github.com/Sunita10Sonar) • [LinkedIn](https://linkedin.com/in/sunita-sonar)
+[GitHub](https://github.com/Sunita10Sonar) • [LinkedIn](https://www.linkedin.com/in/sunitasonar/)
 
 ---
 
